@@ -1,3 +1,4 @@
+<img width="1983" height="793" alt="cover" src="https://github.com/user-attachments/assets/29041403-39f6-4145-b8b8-6c3f7624ef98" />
 <h1 align="center">Consulta.dev.br</h1>
 
 <p align="center">
